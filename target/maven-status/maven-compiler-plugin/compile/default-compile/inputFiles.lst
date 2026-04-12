@@ -1,0 +1,9 @@
+/Users/vladimir/Documents/netology/ci:cd/src/main/java/com/example/todo/controller/TaskController.java
+/Users/vladimir/Documents/netology/ci:cd/src/main/java/com/example/todo/model/Task.java
+/Users/vladimir/Documents/netology/ci:cd/src/main/java/com/example/todo/service/TaskService.java
+/Users/vladimir/Documents/netology/ci:cd/src/main/java/com/example/todo/service/TaskServiceImpl.java
+/Users/vladimir/Documents/netology/ci:cd/src/main/java/com/example/todo/dto/TaskRequest.java
+/Users/vladimir/Documents/netology/ci:cd/src/main/java/com/example/todo/exception/GlobalExceptionHandler.java
+/Users/vladimir/Documents/netology/ci:cd/src/main/java/com/example/todo/TodoApplication.java
+/Users/vladimir/Documents/netology/ci:cd/src/main/java/com/example/todo/exception/TaskNotFoundException.java
+/Users/vladimir/Documents/netology/ci:cd/src/main/java/com/example/todo/exception/ErrorResponse.java
